@@ -27,7 +27,7 @@
 <br>
 
 
-<h2><b>hammer_and_wrench: Languages and Tools :</b></h2>
+<h2><b>Languages and Tools :</b></h2>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="csharp" width="40" height="40"/>&nbsp;
